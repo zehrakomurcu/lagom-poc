@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="challenge_7200,challenge_8654,challenge-stream-api,challenge-stream-impl,challenge,challenge-api,challenge-impl" />
+  </component>
+</project>
