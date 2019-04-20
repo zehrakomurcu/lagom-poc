@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java:81:1: lambda body is neither value nor void compatible[0m
+[0m[[0m[31merror[0m] [0m[0m                .thenApply(sensorStatus -> {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java:81:1: method thenApply in interface java.util.concurrent.CompletionStage<T> cannot be applied to given types;[0m
+[0m[[0m[31merror[0m] [0m[0m  required: java.util.function.Function<? super com.movingimage.challenge.impl.value.SensorStatus,? extends U>[0m
+[0m[[0m[31merror[0m] [0m[0m  found: (sensorSta[...]} } }[0m
+[0m[[0m[31merror[0m] [0m[0m  reason: cannot infer type-variable(s) U[0m
+[0m[[0m[31merror[0m] [0m[0m    (argument mismatch; bad return type in lambda expression[0m
+[0m[[0m[31merror[0m] [0m[0m      missing return value)[0m
+[0m[[0m[31merror[0m] [0m[0m                .thenApply(sensorStatus -> {[0m

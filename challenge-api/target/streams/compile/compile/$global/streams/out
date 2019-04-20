@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-api/src/main/java/com/movingimage/challenge/api/model/NewMeasurementRequest.java:14:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DateTimeFormat[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class com.movingimage.challenge.api.model.NewMeasurementRequest[0m
+[0m[[0m[31merror[0m] [0m[0m  @DateTimeFormat(iso = DateTimeFormatter.ISO_DATE)[0m

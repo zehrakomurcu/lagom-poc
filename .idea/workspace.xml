@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08edc7ed-d157-4228-b57b-d13544d1d371" name="Default Changelist" comment="" />
+    <list default="true" id="08edc7ed-d157-4228-b57b-d13544d1d371" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -72,6 +76,7 @@
           <entry key="class" value="2" />
           <entry key="conf" value="4" />
           <entry key="db" value="2" />
+          <entry key="gitignore" value="1" />
           <entry key="java" value="158" />
           <entry key="properties" value="1" />
           <entry key="sbt" value="8" />
@@ -83,7 +88,7 @@
           <entry key="CLASS" value="2" />
           <entry key="HOCON" value="4" />
           <entry key="JAVA" value="158" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Properties" value="1" />
           <entry key="Scala" value="10" />
           <entry key="sbt" value="8" />
@@ -94,6 +99,7 @@
           <entry key="conf" value="23" />
           <entry key="dummy" value="18" />
           <entry key="java" value="10202" />
+          <entry key="md" value="401" />
           <entry key="sbt" value="12" />
           <entry key="sbtShell" value="215" />
         </counts>
@@ -102,7 +108,7 @@
         <counts>
           <entry key="HOCON" value="23" />
           <entry key="JAVA" value="10202" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="PLAIN_TEXT" value="419" />
           <entry key="sbt" value="12" />
           <entry key="sbtShell" value="215" />
         </counts>
@@ -111,10 +117,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
+            <state relative-caret-position="1260">
               <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,8 +132,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            <state relative-caret-position="320">
+              <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -202,6 +226,9 @@
       <find>Cassa</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -252,6 +279,8 @@
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvent.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -377,7 +406,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555801192486" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555802100438" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
@@ -543,20 +572,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence_2.12/srcs/lagom-javadsl-persistence_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/PersistentEntityRef.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="67" column="96" selection-start-line="67" selection-start-column="96" selection-end-line="67" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/main_2.12-1.2.8.jar!/sbt/Keys.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="291" column="6" selection-start-line="291" selection-start-column="6" selection-end-line="291" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.lightbend.lagom/lagom-sbt-plugin/jars/lagom-sbt-plugin-1.5.0.jar!/com/lightbend/lagom/sbt/LagomImport.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -725,13 +740,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementKafkaEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementKafkaEvent.java" />
     <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/NewMeasurementRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -759,16 +768,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/AlertValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/AlertValue.java" />
     <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/Measurement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -890,8 +890,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        <state relative-caret-position="320">
+          <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -907,11 +907,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="1260">
           <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
         </state>
       </provider>
     </entry>
