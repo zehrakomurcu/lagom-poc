@@ -2,7 +2,7 @@ target
 /.idea
 /.idea_modules
 /.classpath
-/.project
+/.project/project
 /.settings
 /RUNNING_PID
 
