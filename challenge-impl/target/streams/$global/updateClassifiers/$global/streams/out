@@ -24599,19 +24599,18 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-core_2.12;10.1.8!akka-http-core_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#cachecontrol_2.12;1.1.5!cachecontrol_2.12.jar(src)
+[debug] 	[NOT REQUIRED] net.sf.jopt-simple#jopt-simple;5.0.4!jopt-simple.jar(src)
 [debug] 	[NOT REQUIRED] javax.activation#javax.activation-api;1.2.0!javax.activation-api.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-ws-standalone-json_2.12;2.0.1!play-ws-standalone-json_2.12.jar(src)
-[debug] 	[NOT REQUIRED] net.sf.jopt-simple#jopt-simple;5.0.4!jopt-simple.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#cachecontrol_2.12;1.1.5!cachecontrol_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster-sharding_2.12;2.5.22!akka-cluster-sharding_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-guice_2.12;2.7.0!play-guice_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-distributed-data_2.12;2.5.22!akka-distributed-data_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jsr310;2.9.8!jackson-datatype-jsr310.jar(src)
 [debug] 	[NOT REQUIRED] com.github.jnr#jnr-ffi;2.1.7!jnr-ffi.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#guava;27.0-jre!guava.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-persistence_2.12;2.5.22!akka-persistence_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-api_2.12;1.5.0!lagom-api_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-persistence-core_2.12;1.5.0!lagom-persistence-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-persistence_2.12;2.5.22!akka-persistence_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-ws-standalone_2.12;2.0.1!play-ws-standalone_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster_2.12;2.5.22!akka-cluster_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-broker_2.12;1.5.0!lagom-javadsl-broker_2.12.jar(src)
@@ -24620,44 +24619,45 @@
 [debug] 	[NOT REQUIRED] com.google.j2objc#j2objc-annotations;1.1!j2objc-annotations.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.module#jackson-module-parameter-names;2.9.8!jackson-module-parameter-names.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-persistence-cassandra_2.12;0.61!akka-persistence-cassandra_2.12.jar(src)
-[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-core;3.2.6!metrics-core.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#shaded-asynchttpclient;2.0.1!shaded-asynchttpclient.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-guice_2.12;2.7.0!play-guice_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.javassist#javassist;3.24.0-GA!javassist.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)
 [debug] 	[NOT REQUIRED] org.xerial.snappy#snappy-java;1.1.7.2!snappy-java.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-persistence_2.12;1.5.0!lagom-javadsl-persistence_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-kafka-client_2.12;1.5.0!lagom-javadsl-kafka-client_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.github.jnr#jffi;1.2.16!jffi.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.zookeeper#zookeeper;3.4.13!zookeeper.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-akka-http-server_2.12;2.7.0!play-akka-http-server_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.github.jnr#jffi;1.2.16!jffi.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-api_2.12;1.5.0!lagom-javadsl-api_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-akka-http-server_2.12;2.7.0!play-akka-http-server_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#shaded-oauth;2.0.1!shaded-oauth.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-jackson_2.12;1.5.0!lagom-javadsl-jackson_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.kafka#kafka_2.12;2.1.1!kafka_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#jul-to-slf4j;1.7.25!jul-to-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.12;2.5.22!akka-testkit_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.1!scala-parser-combinators_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-json_2.12;2.7.0!play-json_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.github.jnr#jnr-x86asm;1.0.2!jnr-x86asm.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-ws-standalone-xml_2.12;2.0.1!play-ws-standalone-xml_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.1!scala-parser-combinators_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-kafka-broker_2.12;1.5.0!lagom-javadsl-kafka-broker_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-akka-management-core_2.12;1.5.0!lagom-akka-management-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] io.dropwizard.metrics#metrics-core;3.2.6!metrics-core.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#log4j-over-slf4j;1.7.25!log4j-over-slf4j.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play_2.12;2.7.0!play_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-akka-management-core_2.12;1.5.0!lagom-akka-management-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream_2.12;2.5.22!akka-stream_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;5.0.3!asm-analysis.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play_2.12;2.7.0!play_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-handler;4.1.32.Final!netty-handler.jar(src)
 [debug] 	[NOT REQUIRED] com.google.code.findbugs#jsr305;3.0.2!jsr305.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-cluster-core_2.12;1.5.0!lagom-cluster-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-buffer;4.1.32.Final!netty-buffer.jar(src)
-[debug] 	[NOT REQUIRED] com.github.jnr#jnr-posix;3.0.44!jnr-posix.jar(src)
 [debug] 	[NOT REQUIRED] io.spray#spray-json_2.12;1.3.5!spray-json_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.github.jnr#jnr-posix;3.0.44!jnr-posix.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-ws-standalone-xml_2.12;2.0.1!play-ws-standalone-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-server_2.12;1.5.0!lagom-javadsl-server_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.2!reactive-streams.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-kafka-server_2.12;1.5.0!lagom-kafka-server_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.reactivestreams#reactive-streams;1.0.2!reactive-streams.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#failureaccess;1.0!failureaccess.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.yetus#audience-annotations;0.5.0!audience-annotations.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#build-link;2.7.0!build-link.jar(src)
 [debug] 	[NOT REQUIRED] com.yammer.metrics#metrics-core;2.2.0!metrics-core.jar(src)
 [debug] 	[NOT REQUIRED] net.jodah#typetools;0.5.0!typetools.jar(src)
@@ -24667,8 +24667,8 @@
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-persistence-testkit_2.12;1.5.0!lagom-persistence-testkit_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-collection-compat_2.12;0.1.1!scala-collection-compat_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-protobuf_2.12;2.5.22!akka-protobuf_2.12.jar(src)
-[debug] 	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.kafka#kafka-clients;2.1.1!kafka-clients.jar(src)
+[debug] 	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(src)
 [debug] 	[NOT REQUIRED] org.agrona#agrona;0.9.31!agrona.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.curator#curator-test;2.12.0!curator-test.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-classic;1.2.3!logback-classic.jar(src)
@@ -24678,42 +24678,39 @@
 [debug] 	[NOT REQUIRED] com.lightbend.akka.management#akka-management-cluster-bootstrap_2.12;1.0.0!akka-management-cluster-bootstrap_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.slf4j#slf4j-api;1.7.25!slf4j-api.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-streams_2.12;2.7.0!play-streams_2.12.jar(src)
-[debug] 	[NOT REQUIRED] jline#jline;0.9.94!jline.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-http-spray-json_2.12;10.1.8!akka-http-spray-json_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams;2.0.0!netty-reactive-streams.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-ws_2.12;2.7.0!play-ws_2.12.jar(src)
-[debug] 	[NOT REQUIRED] org.codehaus.mojo#animal-sniffer-annotations;1.17!animal-sniffer-annotations.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;0.9.94!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.curator#curator-client;2.12.0!curator-client.jar(src)
 [debug] 	[NOT REQUIRED] org.projectlombok#lombok;1.16.16!lombok.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-client_2.12;1.5.0!lagom-javadsl-client_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.pcollections#pcollections;2.2.0!pcollections.jar(src)
 [debug] 	[NOT REQUIRED] io.jsonwebtoken#jjwt;0.9.1!jjwt.jar(src)
+[debug] 	[NOT REQUIRED] org.codehaus.mojo#animal-sniffer-annotations;1.17!animal-sniffer-annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-client_2.12;1.5.0!lagom-javadsl-client_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-slf4j_2.12;2.5.22!akka-slf4j_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-java_2.12;2.7.0!play-java_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-exceptions;2.7.0!play-exceptions.jar(src)
 [debug] 	[NOT REQUIRED] com.github.jnr#jnr-constants;0.9.9!jnr-constants.jar(src)
 [debug] 	[NOT REQUIRED] com.github.luben#zstd-jni;1.3.7-1!zstd-jni.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.netty#netty-reactive-streams;2.0.0!netty-reactive-streams.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-pcollections;2.9.8!jackson-datatype-pcollections.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-server_2.12;1.5.0!lagom-server_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-akka-management-javadsl_2.12;1.5.0!lagom-akka-management-javadsl_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-parsing_2.12;10.1.8!akka-parsing_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-akka-management-javadsl_2.12;1.5.0!lagom-akka-management-javadsl_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-persistence-query_2.12;2.5.22!akka-persistence-query_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.play#play-ahc-ws_2.12;2.7.0!play-ahc-ws_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.datastax.cassandra#cassandra-driver-core;3.6.0!cassandra-driver-core.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-ws_2.12;2.7.0!play-ws_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.aeron#aeron-client;1.15.1!aeron-client.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-coordination_2.12;2.5.22!akka-coordination_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.datastax.cassandra#cassandra-driver-core;3.6.0!cassandra-driver-core.jar(src)
 [debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.8.1!commons-lang3.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.scala-logging#scala-logging_2.12;3.9.0!scala-logging_2.12.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-codec;4.1.32.Final!netty-codec.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-coordination_2.12;2.5.22!akka-coordination_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.typelevel#macro-compat_2.12;1.1.1!macro-compat_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.12;0.3.7!ssl-config-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] javax.xml.bind#jaxb-api;2.3.1!jaxb-api.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;5.0.3!asm-tree.jar(src)
-[debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.25!jcl-over-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] javax.cache#cache-api;1.0.0!cache-api.jar(src)
+[debug] 	[NOT REQUIRED] org.slf4j#jcl-over-slf4j;1.7.25!jcl-over-slf4j.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.play#play-functional_2.12;2.7.0!play-functional_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream-kafka_2.12;1.0.1!akka-stream-kafka_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-remote_2.12;2.5.22!akka-remote_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream-kafka_2.12;1.0.1!akka-stream-kafka_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.lz4#lz4-java;1.5.0!lz4-java.jar(src)
 [debug] 	[NOT REQUIRED] com.101tec#zkclient;0.11!zkclient.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-persistence-cassandra_2.12;1.5.0!lagom-javadsl-persistence-cassandra_2.12.jar(src)
@@ -24732,8 +24729,8 @@
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-cluster-tools_2.12;2.5.22!akka-cluster-tools_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.12;2.5.22!akka-actor_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-jdk8;2.9.8!jackson-datatype-jdk8.jar(src)
-[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.1.32.Final!netty-codec-http.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.akka.management#akka-management_2.12;1.0.0!akka-management_2.12.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty-codec-http;4.1.32.Final!netty-codec-http.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-discovery_2.12;2.5.22!akka-discovery_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-commons;5.0.3!asm-commons.jar(src)
 [debug] 	[NOT REQUIRED] io.netty#netty-transport;4.1.32.Final!netty-transport.jar(src)
@@ -24751,47 +24748,50 @@
 [debug] 	[NOT REQUIRED] com.fasterxml.jackson.datatype#jackson-datatype-guava;2.9.8!jackson-datatype-guava.jar(src)
 [debug] 	[NOT REQUIRED] com.google.inject.extensions#guice-assistedinject;4.2.2!guice-assistedinject.jar(src)
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;5.0.3!asm-util.jar(src)
-[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.8!jackson-annotations.jar(src)
 [debug] 	[NOT REQUIRED] ch.qos.logback#logback-core;1.2.3!logback-core.jar(src)
 [debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)
 [debug] 	[NOT REQUIRED] io.aeron#aeron-driver;1.15.1!aeron-driver.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-core-testkit_2.12;1.5.0!lagom-core-testkit_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-pubsub_2.12;1.5.0!lagom-javadsl-pubsub_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-testkit_2.12;1.5.0!lagom-javadsl-testkit_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.google.errorprone#error_prone_annotations;2.2.0!error_prone_annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-testkit_2.12;1.5.0!lagom-javadsl-testkit_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-javadsl-pubsub_2.12;1.5.0!lagom-javadsl-pubsub_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-dev-mode-ssl-support_2.12;1.5.0!lagom-dev-mode-ssl-support_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-stream-testkit_2.12;2.5.22!akka-stream-testkit_2.12.jar(src)
 [debug] 	[NOT REQUIRED] junit#junit;4.12!junit.jar(src)
-[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-server_2.12;1.5.0!lagom-server_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe#ssl-config-core_2.12;0.3.7!ssl-config-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.typesafe.play#play-ahc-ws_2.12;2.7.0!play-ahc-ws_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.novocode#junit-interface;0.11!junit-interface.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-dev-mode-ssl-support_2.12;1.5.0!lagom-dev-mode-ssl-support_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.typesafe.akka#akka-persistence-cassandra-launcher_2.12;0.61!akka-persistence-cassandra-launcher_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registry-client_2.12;1.5.0!lagom-service-registry-client_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registration_2.12;1.5.0!lagom-service-registration_2.12.jar(src)
-[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registry-client-core_2.12;1.5.0!lagom-service-registry-client-core_2.12.jar(src)
 [debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-reloadable-server_2.12;1.5.0!lagom-reloadable-server_2.12.jar(src)
-[debug] :: resolution report :: resolve 8122ms :: artifacts dl 79ms
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT compile produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT runtime produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT test produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT provided produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-provided.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT optional produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-optional.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal-docs produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-docs.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal-src produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-src.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT windows produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-windows.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT docker produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-docker.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT linux produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-linux.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT rpm produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-rpm.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT debian produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-debian.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT compile-internal produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile-internal.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT runtime-internal produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime-internal.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT test-internal produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test-internal.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT plugin produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-plugin.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT pom produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-pom.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT scala-tool produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-scala-tool.xml
-[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT dev-mode produced in /Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-dev-mode.xml
-[debug] 	resolve done (8122ms resolve - 79ms download)
+[debug] 	[NOT REQUIRED] com.fasterxml.jackson.core#jackson-annotations;2.9.8!jackson-annotations.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registry-client-core_2.12;1.5.0!lagom-service-registry-client-core_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registration_2.12;1.5.0!lagom-service-registration_2.12.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-core-testkit_2.12;1.5.0!lagom-core-testkit_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(src)
+[debug] 	[NOT REQUIRED] com.lightbend.lagom#lagom-service-registry-client_2.12;1.5.0!lagom-service-registry-client_2.12.jar(src)
+[debug] :: resolution report :: resolve 4881ms :: artifacts dl 46ms
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT compile produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT runtime produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT test produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT provided produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-provided.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT optional produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-optional.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal-docs produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-docs.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT universal-src produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-src.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT windows produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-windows.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT docker produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-docker.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT linux produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-linux.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT rpm produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-rpm.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT debian produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-debian.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT compile-internal produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile-internal.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT runtime-internal produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime-internal.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT test-internal produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test-internal.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT plugin produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-plugin.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT pom produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-pom.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT scala-tool produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-scala-tool.xml
+[debug] 	report for com.movingimage#challenge-impl$sources;1.0-SNAPSHOT dev-mode produced in /Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-dev-mode.xml
+[debug] 	resolve done (4881ms resolve - 46ms download)

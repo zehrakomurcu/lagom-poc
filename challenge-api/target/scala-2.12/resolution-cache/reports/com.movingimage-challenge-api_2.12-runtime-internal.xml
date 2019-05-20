@@ -7,15 +7,15 @@
 		revision="1.0-SNAPSHOT"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190418175958"/>
+		date="20190517085051"/>
 	<dependencies>
 		<module organisation="org.projectlombok" name="lombok">
-			<revision name="1.16.16" status="release" pubdate="20170323032618" resolver="public" artresolver="public" homepage="https://projectlombok.org" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="49">
+			<revision name="1.16.16" status="release" pubdate="20170323032618" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://projectlombok.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="49">
 				<license name="The MIT License" url="https://projectlombok.org/LICENSE"/>
-				<metadata-artifact status="successful" details="" size="1568" time="383" location="/Users/znkomurcu/.ivy2/cache/org.projectlombok/lombok/ivy-1.16.16.xml" searched="true" original-local-location="/Users/znkomurcu/.ivy2/cache/org.projectlombok/lombok/ivy-1.16.16.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/projectlombok/lombok/1.16.16/lombok-1.16.16.pom"/>
+				<metadata-artifact status="no" details="" size="2571" time="0" location="/Users/znkomurcu/.ivy2/cache/org.projectlombok/lombok/ivy-1.16.16.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/projectlombok/lombok/1.16.16/lombok-1.16.16.pom"/>
 				<caller organisation="com.movingimage" name="challenge-api_2.12" conf="compile, runtime-internal, runtime, optional" rev="1.16.16" rev-constraint-default="1.16.16" rev-constraint-dynamic="1.16.16" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="lombok" type="jar" ext="jar" status="successful" details="" size="1439298" time="2787" location="/Users/znkomurcu/.ivy2/cache/org.projectlombok/lombok/jars/lombok-1.16.16.jar">
+					<artifact name="lombok" type="jar" ext="jar" status="no" details="" size="1439298" time="0" location="/Users/znkomurcu/.ivy2/cache/org.projectlombok/lombok/jars/lombok-1.16.16.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/projectlombok/lombok/1.16.16/lombok-1.16.16.jar"/>
 					</artifact>
 				</artifacts>

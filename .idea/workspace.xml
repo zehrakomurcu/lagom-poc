@@ -3,8 +3,360 @@
   <component name="ChangeListManager">
     <list default="true" id="08edc7ed-d157-4228-b57b-d13544d1d371" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge-api-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/challenge-api-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/challenge-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/challenge-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge-impl-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/challenge-impl-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/challenge-impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/challenge-impl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api$sources/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api$sources/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api$sources/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api$sources/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/com.movingimage/challenge-api_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-api_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-api/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-api/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl$sources/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl$sources/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl$sources/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl$sources/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl_2.12/1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/com.movingimage/challenge-impl_2.12/1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-debian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-debian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-dev-mode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-dev-mode.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-docker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-rpm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-rpm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal-src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-universal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl$sources-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-debian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-debian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-dev-mode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-dev-mode.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-docker.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-rpm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-rpm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal-src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal-src.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-universal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/scala-2.12/resolution-cache/reports/com.movingimage-challenge-impl_2.12-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-impl/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-impl/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2888e0b4ba4f104b68f1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5e0ea8af986107c58946.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b6d92e2884897ab4b2f5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d58cc90ca484e84d1ef5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e4111a60ba110e114238.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/challenge-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/challenge-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/challenge-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/challenge-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-challenge-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/built_views-4b3c50a9ea873d7691016dbc9c38494a/mc-2-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/local-7ad54392bcdd35a684174e047860b377/mc-13-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system/views_builds_in_progress-b7f2c10878cd3c809cd5d609b2bd149c/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/mc-13-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-13-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/mc-14-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-10-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-11-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/mc-9-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-1-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-CompressionInfo.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Data.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Digest.crc32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Filter.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Statistics.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-Summary.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/mc-2-big-TOC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/embedded-cassandra/dev-embedded-cassandra.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-cassandra_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-cassandra_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-cassandra_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-cassandra/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/cleaner-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/log-start-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/meta.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/recovery-point-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/kafka_data/replication-offset-checkpoint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-kafka_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-kafka_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-kafka_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-kafka/target/zookeeper_data/version-2/log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-service-locator_2.12/1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/com.movingimage/lagom-internal-meta-project-service-locator_2.12/1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/com.movingimage-lagom-internal-meta-project-service-locator_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/lagom-dynamic-projects/lagom-internal-meta-project-service-locator/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -40,18 +392,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="challenge" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="challenge" type="f1a62948:ProjectNode" />
-                <item name="challenge-impl" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="challenge" type="f1a62948:ProjectNode" />
-                <item name="challenge-impl" type="2d1252cf:ModuleNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="measurement" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -64,7 +405,7 @@
     <session id="-501554308">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="2" />
@@ -101,7 +442,7 @@
           <entry key="java" value="10202" />
           <entry key="md" value="401" />
           <entry key="sbt" value="12" />
-          <entry key="sbtShell" value="215" />
+          <entry key="sbtShell" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -110,7 +451,45 @@
           <entry key="JAVA" value="10202" />
           <entry key="PLAIN_TEXT" value="419" />
           <entry key="sbt" value="12" />
-          <entry key="sbtShell" value="215" />
+          <entry key="sbtShell" value="231" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-734122343">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="6" />
+          <entry key="java" value="236" />
+          <entry key="sbtShell" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="236" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="sbtShell" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="2" />
+          <entry key="java" value="20" />
+          <entry key="sbt" value="1" />
+          <entry key="scala" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Scala" value="2" />
+          <entry key="sbt" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -118,13 +497,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -132,38 +508,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+            <state relative-caret-position="174">
+              <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java">
+        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="68" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-83">
+              <caret line="66" column="65" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvtReadSideProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="50" column="41" selection-start-line="49" selection-start-column="18" selection-end-line="50" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -171,23 +544,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementModule.java">
+        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-153">
+              <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -199,6 +575,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -269,23 +646,30 @@
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/Measurement.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetSensorMetricsResponse.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementKafkaEvent.java" />
-        <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementState.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/AlertValue.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/Measurement.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetAlertsResponse.java" />
         <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/value/Measurement.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvtReadSideProcessor.java" />
-        <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvent.java" />
         <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/SensorData.java" />
+        <option value="$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java" />
+        <option value="$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="943" />
+    <option name="width" value="714" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -306,6 +690,11 @@
             <path>
               <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="challenge" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
               <item name="challenge-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,15 +717,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
@@ -346,58 +726,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="value" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-api" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="challenge" type="462c0819:PsiDirectoryNode" />
               <item name="challenge-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -406,11 +739,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555802100438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558383346718" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.movingimage.challenge.api" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.movingimage.challenge.impl" />
       <recent name="" />
@@ -469,27 +805,27 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="challenge [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="challenge-api [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge-api [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$/challenge-api" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="challenge-impl [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge-impl [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$/challenge-impl" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="challenge-build [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge-build [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="challenge-api-build [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge-api-build [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$/challenge-api/project" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="challenge-impl-build [file:/Users/znkomurcu/CodeCenter/movingimage/challenge/]" />
+                <option name="name" value="challenge-impl-build [file:/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/]" />
                 <option name="path" value="$PROJECT_DIR$/challenge-impl/project" />
               </ExternalProjectPojo>
             </list>
@@ -524,10 +860,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="714" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5327381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -543,7 +879,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="SBT Console" order="8" weight="0.49759036" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" sideWeight="0.49928468" weight="0.526506" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -553,7 +889,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="sbt" order="4" weight="0.218" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.328877" />
       <window_info anchor="right" id="Gradle" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -572,79 +908,7 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.lightbend.lagom/lagom-sbt-plugin/jars/lagom-sbt-plugin-1.5.0.jar!/com/lightbend/lagom/sbt/LagomImport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/joda-time/joda-time/srcs/joda-time-2.10.1-sources.jar!/org/joda/time/format/DateTimeFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-api_2.12/srcs/lagom-javadsl-api_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/api/Descriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="666" column="26" selection-start-line="666" selection-start-column="26" selection-end-line="666" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-stream-impl/src/main/java/com/movingimage/challengestream/impl/ChallengeStreamSubscriber.java" />
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/Status.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/SensorStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence_2.12/srcs/lagom-javadsl-persistence_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/PersistentEntity.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="165" column="22" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-stream-impl/src/main/java/com/movingimage/challengestream/impl/ChallengeStreamModule.java" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.google.inject/guice/srcs/guice-4.2.2-sources.jar!/com/google/inject/internal/InternalInjectorCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-persistence-cassandra_2.12/srcs/akka-persistence-cassandra_2.12-0.61-sources.jar!/akka/persistence/cassandra/session/javadsl/CassandraSession.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/resources/application.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/resources/application.conf" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-server_2.12/srcs/lagom-javadsl-server_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/server/ServiceGuiceSupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
@@ -696,20 +960,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/target/embedded-cassandra/data/challenge/eventsbytag1-b1ae401062cf11e98893dfa6c2c0fd9e/mc-1-big-Data.db" />
     <entry file="file://$PROJECT_DIR$/target/embedded-cassandra/data/challenge/measurement-b1347c3062cf11e98893dfa6c2c0fd9e/mc-1-big-Index.db" />
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.22-sources.jar!/akka/stream/javadsl/Source.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1294">
@@ -721,9 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="623" selection-start-line="623" selection-end-line="623" />
-          <folding>
-            <element signature="e#25341#25342#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,36 +978,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="424" column="51" lean-forward="true" selection-start-line="424" selection-start-column="51" selection-end-line="424" selection-end-column="51" />
-          <folding>
-            <element signature="e#16024#16025#0" expanded="true" />
-            <element signature="e#16070#16071#0" expanded="true" />
-            <element signature="e#16294#16295#0" expanded="true" />
-            <element signature="e#16335#16336#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementKafkaEvent.java" />
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/NewMeasurementRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/NewMeasurementRequest.java" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence-cassandra_2.12/srcs/lagom-javadsl-persistence-cassandra_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/cassandra/CassandraSession.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -769,20 +991,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/AlertValue.java" />
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/Measurement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/value/SensorStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/value/Measurement.java" />
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/value/SensorStatus.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1410">
@@ -790,16 +1000,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/value/Measurement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/value/Measurement.java" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/srcs/cassandra-driver-core-3.6.0-sources.jar!/com/datastax/driver/core/GettableByNameData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -828,104 +1029,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvtReadSideProcessor.java">
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetSensorMetricsResponse.java" />
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetSensorStatusResponse.java" />
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementModule.java" />
+    <entry file="file://$PROJECT_DIR$/measurement-api/src/main/java/com/movingimage/measurement/api/MeasurementService.java" />
+    <entry file="file://$PROJECT_DIR$/measurement-api/src/main/java/com/movingimage/measurement/api/model/GetAlertsResponse.java" />
+    <entry file="file://$PROJECT_DIR$/measurement-impl/src/main/resources/application.conf" />
+    <entry file="file://$PROJECT_DIR$/measurement-impl/src/main/java/com/movingimage/measurement/impl/MeasurementCommand.java" />
+    <entry file="file://$PROJECT_DIR$/measurement-impl/src/main/java/com/movingimage/measurement/impl/MeasurementEntity.java" />
+    <entry file="file://$PROJECT_DIR$/measurement-impl/src/main/java/com/movingimage/measurement/impl/MeasurementServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="51" column="76" selection-start-line="51" selection-start-column="76" selection-end-line="51" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence_2.12/srcs/lagom-javadsl-persistence_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/PersistentEntityRegistry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence_2.12/srcs/lagom-javadsl-persistence_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/ReadSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.22-sources.jar!/akka/Done.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/SensorData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-persistence_2.12/srcs/lagom-javadsl-persistence_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/persistence/ReadSideProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetAlertsResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetSensorMetricsResponse.java">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/model/GetSensorStatusResponse.java">
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.lightbend.lagom/lagom-javadsl-api_2.12/srcs/lagom-javadsl-api_2.12-1.5.0-sources.jar!/com/lightbend/lagom/javadsl/api/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvent.java">
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="43" column="43" lean-forward="true" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+        <state relative-caret-position="270">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="68" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-153">
+          <caret line="81" column="51" selection-start-line="81" selection-start-column="51" selection-end-line="81" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementEvtReadSideProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="50" column="41" selection-start-line="49" selection-start-column="18" selection-end-line="50" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-impl/src/main/java/com/movingimage/challenge/impl/MeasurementServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-83">
+          <caret line="66" column="65" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>

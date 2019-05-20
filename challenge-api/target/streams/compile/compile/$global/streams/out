@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/znkomurcu/CodeCenter/movingimage/challenge/challenge-api/src/main/java/com/movingimage/challenge/api/model/NewMeasurementRequest.java:14:1: cannot find symbol[0m
-[0m[[0m[31merror[0m] [0m[0m  symbol:   class DateTimeFormat[0m
-[0m[[0m[31merror[0m] [0m[0m  location: class com.movingimage.challenge.api.model.NewMeasurementRequest[0m
-[0m[[0m[31merror[0m] [0m[0m  @DateTimeFormat(iso = DateTimeFormatter.ISO_DATE)[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/znkomurcu/CodeCenter/challenges/movingimage/challenge/challenge-api/src/main/java/com/movingimage/challenge/api/MeasurementService.java:67:1: method withTopics in class com.lightbend.lagom.javadsl.api.Descriptor cannot be applied to given types;[0m
+[0m[[0m[31merror[0m] [0m[0m  required: com.lightbend.lagom.javadsl.api.Descriptor.TopicCall<?>[][0m
+[0m[[0m[31merror[0m] [0m[0m  found: java.lang.String,this::coll[...]Kafka[0m
+[0m[[0m[31merror[0m] [0m[0m  reason: varargs mismatch; java.lang.String cannot be converted to com.lightbend.lagom.javadsl.api.Descriptor.TopicCall<?>[0m
+[0m[[0m[31merror[0m] [0m[0m            .withTopics("sensor-data", this::collectDataWithKafka)[0m

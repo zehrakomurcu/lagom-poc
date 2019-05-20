@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, dev-mode"
-		date="20190420225924"/>
+		date="20190517085058"/>
 	<dependencies>
 		<module organisation="com.lightbend.lagom" name="lagom-javadsl-testkit_2.12">
 			<revision name="1.5.0" status="release" pubdate="20190416122132" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.lagomframework.com/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="159">
@@ -324,7 +324,7 @@
 			</revision>
 		</module>
 		<module organisation="com.movingimage" name="challenge-api_2.12">
-			<revision name="1.0-SNAPSHOT" status="integration" pubdate="20190420225918" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="31">
+			<revision name="1.0-SNAPSHOT" status="integration" pubdate="20190517085051" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="31">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="com.movingimage" name="challenge-impl$sources" conf="test, compile, runtime" rev="1.0-SNAPSHOT" rev-constraint-default="1.0-SNAPSHOT" rev-constraint-dynamic="1.0-SNAPSHOT" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>

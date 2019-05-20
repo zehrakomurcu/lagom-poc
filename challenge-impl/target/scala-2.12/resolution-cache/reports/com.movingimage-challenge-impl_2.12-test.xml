@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="test"
 		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, dev-mode"
-		date="20190420232445"/>
+		date="20190517085053"/>
 	<dependencies>
 		<module organisation="com.lightbend.lagom" name="lagom-javadsl-testkit_2.12">
 			<revision name="1.5.0" status="release" pubdate="20190416122132" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://www.lagomframework.com/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="164">
@@ -76,14 +76,14 @@
 				<metadata-artifact status="no" details="" size="4136" time="0" location="/Users/znkomurcu/.ivy2/cache/com.lightbend.lagom/lagom-kafka-server_2.12/ivy-1.5.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/lightbend/lagom/lagom-kafka-server_2.12/1.5.0/lagom-kafka-server_2.12-1.5.0.pom"/>
 				<caller organisation="com.lightbend.lagom" name="lagom-javadsl-kafka-broker_2.12" conf="default, compile, runtime, master" rev="1.5.0" rev-constraint-default="1.5.0" rev-constraint-dynamic="1.5.0" callerrev="1.5.0"/>
 				<artifacts>
+					<artifact name="lagom-kafka-server_2.12" type="jar" ext="jar" extra-classifier="sources" status="no" details="" size="8767" time="0" location="/Users/znkomurcu/.ivy2/cache/com.lightbend.lagom/lagom-kafka-server_2.12/jars/lagom-kafka-server_2.12-1.5.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lightbend/lagom/lagom-kafka-server_2.12/1.5.0/lagom-kafka-server_2.12-1.5.0-sources.jar"/>
+					</artifact>
 					<artifact name="lagom-kafka-server_2.12" type="pom" ext="pom" status="no" details="" size="3496" time="0" location="/Users/znkomurcu/.ivy2/cache/com.lightbend.lagom/lagom-kafka-server_2.12/poms/lagom-kafka-server_2.12-1.5.0.pom">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lightbend/lagom/lagom-kafka-server_2.12/1.5.0/lagom-kafka-server_2.12-1.5.0.pom"/>
 					</artifact>
 					<artifact name="lagom-kafka-server_2.12" type="jar" ext="jar" extra-classifier="javadoc" status="no" details="" size="1159031" time="0" location="/Users/znkomurcu/.ivy2/cache/com.lightbend.lagom/lagom-kafka-server_2.12/jars/lagom-kafka-server_2.12-1.5.0-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lightbend/lagom/lagom-kafka-server_2.12/1.5.0/lagom-kafka-server_2.12-1.5.0-javadoc.jar"/>
-					</artifact>
-					<artifact name="lagom-kafka-server_2.12" type="jar" ext="jar" extra-classifier="sources" status="no" details="" size="8767" time="0" location="/Users/znkomurcu/.ivy2/cache/com.lightbend.lagom/lagom-kafka-server_2.12/jars/lagom-kafka-server_2.12-1.5.0-sources.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/lightbend/lagom/lagom-kafka-server_2.12/1.5.0/lagom-kafka-server_2.12-1.5.0-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -1480,7 +1480,7 @@
 			</revision>
 		</module>
 		<module organisation="com.movingimage" name="challenge-api_2.12">
-			<revision name="1.0-SNAPSHOT" status="integration" pubdate="20190420232444" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+			<revision name="1.0-SNAPSHOT" status="integration" pubdate="20190517085051" resolver="inter-project" artresolver="inter-project" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="com.movingimage" name="challenge-impl_2.12" conf="test, compile, runtime" rev="1.0-SNAPSHOT" rev-constraint-default="1.0-SNAPSHOT" rev-constraint-dynamic="1.0-SNAPSHOT" callerrev="1.0-SNAPSHOT"/>
 				<artifacts>
